@@ -1,0 +1,42 @@
+.header{
+color: crimson;
+padding: 10px;
+font-weight: bold;
+text-align: center;
+}
+.container{
+text-align: center;
+}
+.container > button{
+margin-left: 4px;
+color: black;
+font-weight: bold;
+padding: 5px;
+
+
+}
+.container > input{
+padding: 5px;
+margin-left:4px ;
+font-size: 15px;
+font-weight: bold;
+
+color: crimson;
+}
+.contanier2{
+text-align: center;
+margin-top: 100px;
+}
+.child {
+    padding: 20px;
+    background-color: crimson;
+    width: 400px;
+    margin-left: 33%;
+    border-radius:10px  ;
+    -webkit-border-radius:10px  ;
+    -moz-border-radius:10px  ;
+    -ms-border-radius:10px  ;
+    -o-border-radius:10px  ;
+    font-size: 20px;
+    font-weight: bold;
+}
